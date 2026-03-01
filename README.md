@@ -1,8 +1,9 @@
 📌 To-Do List App
 
-A simple command-line Python app to add, delete, mark as done, and view tasks. All tasks are saved in a file so you never lose them. ✅
+A simple command-line Python app that lets you manage tasks in a text-based interface.
+Add, delete, mark tasks as done, and read your tasks — all saved in a file so nothing gets lost. ✅
 
-Features:
+✨ Features
 
 Add new tasks ✅
 
@@ -12,30 +13,54 @@ Mark tasks as completed ✔️
 
 View all tasks 📄
 
-Stores tasks in tasks1.txt 💾
+Tasks are stored in tasks1.txt 💾
 
-How to use:
+🚀 How to Use
 
-Run the Python script.
+Make sure you have Python 3.11+ installed.
 
-Use the menu:
+Clone the repository:
 
-A — Add a task
+git clone <YOUR_REPO_URL>
 
-B — Delete a task
+Navigate into the folder:
 
-C — Mark as done
+cd <YOUR_FOLDER>
 
-D — Read tasks
+Run the program:
 
-F — Exit
+python "to-do list.py"
 
-Future improvements:
+Use the menu to manage your tasks:
 
-Add a GUI with Tkinter or Pygame
+Option	Action
+A	Add a task
+B	Delete a task
+C	Mark a task as done
+D	Read your tasks
+F	Exit
+💡 How it Works
 
-Include due dates and sorting
+Tasks are stored in a file so you don’t lose data.
+
+The program handles input safely to prevent errors.
+
+Simple, clear code using lists, loops, and file handling.
+
+🛠 Future Improvements
+
+Add a GUI using Tkinter or Pygame
+
+Include due dates and sorting of tasks
 
 Export tasks to CSV or JSON
 
-Author: 13-year-old Python beginner 🎉
+Add search functionality
+
+👤 Author
+
+Dante Yorganci
+
+Age: 13
+
+First documented Python project 🎉
