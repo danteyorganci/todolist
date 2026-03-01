@@ -21,11 +21,11 @@ Make sure you have Python 3.11+ installed.
 
 Clone the repository:
 
-git clone <YOUR_REPO_URL>
+git clone <(https://github.com/danteyorganci/todolist.git)>
 
 Navigate into the folder:
 
-cd <YOUR_FOLDER>
+cd todolist
 
 Run the program:
 
